@@ -139,17 +139,6 @@
     border:3px solid #f0eded;
 }
 
-.learn_more {
-    color:rgb(36, 85, 158);
-    text-decoration: none;
-}
-
-.learn_more:hover {
-    color: black;
-    text-decoration: underline;
-    background-color: white;
-}
-
 .footer {
     margin: 0;
     background-color: red;
